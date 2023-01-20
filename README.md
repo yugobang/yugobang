@@ -1,1 +1,1 @@
-[github pages](https://yugobang.github.io/index.html)
+[github pages](https://yugobang.github.io)
